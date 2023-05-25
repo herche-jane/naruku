@@ -81,8 +81,8 @@ public class OSinfo {
 	}
 	
 	/**
-	 * 获取操作系统名字
-	 * @return 操作系统名
+	 * 锟斤拷取锟斤拷锟斤拷系统锟斤拷锟斤拷
+	 * @return 锟斤拷锟斤拷系统锟斤拷
 	 */
 	public static EPlatform getOSname(){
 		if(isAix()){
